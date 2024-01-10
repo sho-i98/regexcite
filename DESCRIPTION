@@ -15,3 +15,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
+URL: https://github.com/sho-i98/regexcite
+BugReports: https://github.com/sho-i98/regexcite/issues
